@@ -48,3 +48,12 @@ Bu komut, tüm test senaryolarını çalıştıracak ve sonuçları terminalde g
 ## 📜 Lisans
 
 Bu proje **Apache License** ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
+
+## ▶️ Test Results
+
+![image](https://github.com/user-attachments/assets/a52df0e9-1ce8-42ed-921e-97a93616b533)
+![image](https://github.com/user-attachments/assets/60c1475f-c4e1-4d79-87a0-b060bde37b23)
+![image](https://github.com/user-attachments/assets/0f1471bc-ad7e-4558-ac2d-8b4d537cb835)
+
+
+
