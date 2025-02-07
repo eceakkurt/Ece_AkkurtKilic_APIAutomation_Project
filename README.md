@@ -47,4 +47,4 @@ Bu komut, tüm test senaryolarını çalıştıracak ve sonuçları terminalde g
 
 ## 📜 Lisans
 
-Bu proje **MIT Lisansı** ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
+Bu proje **Apache License** ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
