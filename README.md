@@ -1,1 +1,50 @@
-# Ece_AkkurtKilic_APIAutomation_Project
+# Ece Akkurt Kılıç API Otomasyon Projesi
+
+Bu proje, belirli bir API'nin otomatik testlerini gerçekleştirmek amacıyla geliştirilmiştir. Proje, API'nin farklı uç noktalarını test etmek için çeşitli test senaryoları içerir.
+
+## 🚀 Özellikler
+
+✔ API uç noktalarının otomatik testi  
+✔ Test senaryolarının kolayca genişletilebilir yapısı  
+✔ Hata raporlama ve loglama  
+
+## ⚙️ Kurulum
+
+Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
+
+1. **Depoyu klonlayın:**
+
+   ```bash
+   git clone https://github.com/eceakkurt/Ece_AkkurtKilic_APIAutomation_Project.git
+   cd Ece_AkkurtKilic_APIAutomation_Project
+   ```
+
+2. **Gerekli bağımlılıkları yükleyin:**
+
+   Maven veya Gradle kullanıyorsanız, aşağıdaki komutu çalıştırarak bağımlılıkları yükleyin:
+
+   ```bash
+   mvn install
+   ```
+
+   veya
+
+   ```bash
+   gradle build
+   ```
+
+## ▶️ Kullanım
+
+Testleri çalıştırmak için aşağıdaki komutu kullanabilirsiniz:
+
+```bash
+mvn test
+```
+
+Bu komut, tüm test senaryolarını çalıştıracak ve sonuçları terminalde görüntüleyecektir.
+
+```
+
+## 📜 Lisans
+
+Bu proje **MIT Lisansı** ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
